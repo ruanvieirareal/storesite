@@ -1,0 +1,59 @@
+
+
+.input-item__box{
+    border: 1px solid #FF4F4F;
+    background: #ffffff;
+    padding: 13px 20px;
+  }
+  
+  .input-item__textarea,
+  .input-item__input{
+    width: 100%;
+    border: none;
+    outline: none;
+  }
+  
+  .input-item__textarea{
+    resize: none;
+    min-height: 178px;
+  }
+  
+  
+  .bt-red{
+      background: #FF4F4F;
+      font-size: 16px;
+      font-weight: 600;
+      color: #ffffff;
+      text-decoration: none;
+      padding: 15px 30px;
+      border-radius: 4px;
+      display: inline-block;
+      border: none;
+      cursor: pointer;
+    margin-bottom: auto;
+  }
+  
+  
+  .col{
+      float: left;
+  }
+  
+  
+  .col--5{
+      width: 50%;
+  }
+  
+  .p-15{
+      padding: 0 15px;
+  }
+  
+  
+  .mb-20{
+      margin-bottom: 15px;
+  }
+  
+  .mh-160{
+      min-width: 160px;
+  }
+  
+  
